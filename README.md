@@ -6,6 +6,7 @@ Library for different scripts related to domains under Linux
 
 1. Domain-Setup
 2. Add user an machines
+3. Add network-shares
 
 ## Scripting language
 
