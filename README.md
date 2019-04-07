@@ -4,7 +4,8 @@ Library for different scripts related to domains under Linux
 
 ## Content
 
-Currently empty
+1. Domain-Setup
+2. Add user an machines
 
 ## Scripting language
 
