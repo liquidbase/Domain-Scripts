@@ -8,6 +8,10 @@ Library for different scripts related to domains under Linux
 2. Add user an machines
 3. Add network-shares
 
+## Usage
+
+To use the scripts, go to the directory "Domain Scripts" and start the collection with the command ./init-domain.sh. Next comes a menu in which you can select the desired action.
+
 ## Scripting language
 
 * Bash
